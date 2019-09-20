@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,MAAE,CACA,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,UAAU,CAAE,IAAI,CAElB,MAAE,CACA,OAAO,CAAE,YAAY,CAEvB,KAAC,CACC,OAAO,CAAE,KAAK,CACd,OAAO,CAAE,QAAQ,CACjB,eAAe,CAAE,IAAI",
+"sources": ["abc.sass"],
+"names": [],
+"file": "abc.css"
+}

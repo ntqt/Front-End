@@ -1,0 +1,412 @@
+#page-0{
+	/*width: 100%!important;*/
+
+	
+}
+#page-0 button{
+	position: absolute;
+    margin: -136px 0px 0px 601px;
+
+}
+#page-0 .f1{
+    padding: 11px 40px;
+}
+
+.sg{
+	text-align: center;
+	color: #ff9800;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+.line{
+	border-top-width: 3px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-style: solid;
+	border-color: rgba(76,175,80,1);
+	margin: 11px 520px;
+}
+ul{
+	list-style: none;
+}
+.ul-left li{
+	padding: 30px 55px 20px 0;
+	background: url(../assest/images/icon.png) no-repeat;
+	background-size: 10%;
+	background-position: 279px;
+	text-align: right;
+}
+.ul-right li{
+    padding: 35px 0 0px 50px;
+	background: url(../assest/images/icon.png) no-repeat;
+	background-size: 10%;
+	background-position: left;
+	text-align: justify;
+}
+.ul-left li span{
+	font-size: 20px;
+    
+}
+.ul-right li span{
+	font-size: 20px;
+}
+
+
+
+
+
+#page-2{
+	background-color: #fafafa;
+}
+.ct{
+	text-align: center;
+	font-size: 30px;
+    color: #ff9800;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+#page-2 ul{
+	list-style: none;
+	margin-top: 35px;
+	
+}
+#page-2 ul li{
+	background: url(../assest/images/index.svg);
+	background-size: 5%;
+	background-repeat: no-repeat;
+	padding: 5px 19px 9px 39px;
+    font-size: 20px;
+	
+}
+.text-center .ct1{
+    padding: 11px 54px;
+    margin-bottom: 54px;
+}
+#page-3{
+    background-color: #fafafa;
+    text-align: center;
+}
+.size{
+	font-size: 30px;
+	font-weight: bold;
+	color: #ff9800;
+}
+.sd{
+	font-size: 20px;
+	line-height: 54px;
+}
+.bd{
+	border-radius: 33px;
+	border: 2px dotted green;
+	width: 30%;
+	margin: 170px 15px 25px 15px;
+	text-align: justify;
+	height: 647px;
+	padding: 122px 42px;
+}
+.img1{
+	width: 230px;
+	height: 230px;
+	border-radius: 50%;
+	border: 2px solid green;
+	position: absolute;
+	margin-top: -247px;
+	margin-left: 24px;
+	background-color: #fff;
+}
+.cx{
+	text-align: center;
+	font-size: 38px;
+	color: #de0000;
+    text-shadow: 3px 2px 4px #9f9e9e;
+    font-weight: bold;
+}
+.gt{
+	font-size: 19px;
+	padding-top: 7px;
+	color: #1a6d00;
+	line-height: 30px;
+}
+
+
+
+
+#page-4{
+    margin-bottom: 45px;
+}
+.text{
+    padding: 20px 240px;
+    text-align: center;
+}
+.content{
+    color: rgba(255,152,0,1);
+    font-weight: 700;
+    line-height: 34px;
+}
+
+.content-2{
+	color: rgba(0,0,0,1);
+    font-weight: 700;
+    line-height: 24px;
+    font-size: 18px;
+    padding: 0px 114px;
+}
+
+
+
+.text-1{
+	color: rgba(97,97,97,1);
+	font-weight: 700;
+	line-height: 20px;
+	font-size: 14px;
+
+}
+
+.line-1{
+	border-top-width: 1px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-style: solid;
+	border-color: rgba(224,224,224,1);
+	margin-top: 12px;
+}
+.line-2{
+	border-top-width: 1px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-style: solid;
+	border-color: rgba(224,224,224,1);
+	margin-top: 31px;
+}
+.fb>img{
+	width: 23%;
+	float: left;
+	border-radius: 50%;
+	margin-left: 28px;
+}
+.info{
+	margin-top: 5px;
+}
+.info>h6{
+	font-size: 15px;
+}
+.info>p{
+	color: #f75874;
+	font-size: 13px;
+	font-style:italic;
+}
+
+
+
+
+#page-5{
+	background: #fafafa;
+}
+.img-1{
+	width: 85%;
+    margin-top: 13px;
+    padding-left: 45px;
+}
+.xyz{
+	text-align: center;
+	padding-top: 50px;
+}
+.cnkh{
+    color: rgba(255,145,0,1);
+	font-weight: 600;
+	line-height: 34px;
+}
+.khoahoc{
+	color: rgba(74,74,74,1);
+	font-weight: 700;
+	line-height: 20px;
+	padding: 5px 23px;
+}
+.xyz>ul{
+	list-style-type: none;
+	margin-left: 37px;
+}
+.xyz>ul>li{
+	background: #fff;
+	width: 182px;
+	height: 190px;
+	border: 1px solid #c3c3c1;
+	float: left;
+	margin: 6px 4px;
+}
+.xyz>ul>li>i{
+	font-size: 56px;
+	padding-top: 11px;
+    color: rgb(76, 175, 80);
+}
+.xyz>ul>li>h4{
+	color: rgba(255,87,34,1);
+	font-weight: 700;
+	line-height: 24px;
+}
+.xyz>ul>li>p{
+	color: rgba(66,66,66,1);
+	font-weight: 600;
+	line-height: 22px;
+	font-size: 16px;
+}
+
+
+#page-6{
+	background-image: url(../assest/images/75f59b40-4c0c-4482-aa15-387947ff3236.jpg);
+	color: #fff;
+    text-align: center;
+}
+.main{
+	background-color: rgba(16, 138, 16, 0.8);
+}
+
+.tt{
+	font-size: 36px;
+	font-weight: bold;
+	padding-left: 0px;
+	padding-right: 150px;
+	color: #FFA800;
+}
+.tt2{
+	font-size: 34px;
+	font-weight: bold;
+	padding-left: 292px;
+	line-height: 22px;
+}
+.dky{
+	font-size: 28px;
+	
+	font-weight: 600;
+	color: #E45910;
+}
+.time{
+	list-style-type: none;
+	padding: 0px;
+	margin-top: 20px;
+}
+.time>li{
+	width: 23%;
+	float: left;
+	padding: 10px;
+	border: 2px solid #E45910;
+	margin: 2px 3px 30px 3px;
+	background-color: #E45910;
+	font-weight: bold;
+}
+.formdky{
+	padding-top: 50px;
+}
+.km{
+	font-size: 27px;
+}
+.km>span{
+	color: red;
+}
+.btn{
+	padding: 11px 132px;
+}
+.form-control{
+	padding: 20px 12px;
+}
+.ab{
+	padding-top: 87px;
+}
+#page-7{
+	text-align: center;
+	background-color: #154D04;
+	color: #fff;
+	padding-bottom: 20px;
+}
+
+@media (max-width: 769px){
+	#page-0 .f1 {
+        padding: 5px 7px;
+	}
+	#page-0 button {
+	    position: absolute;
+	    margin: -32px 0px 0px 101px;
+	}
+	.sg{
+		font-size: 21px;
+	}
+	.size{
+		font-size: 20px;
+        padding: 10px 15px;
+        margin-left: -12px;
+	}
+	.sd {
+	    font-size: 20px;
+	    line-height: 26px;
+	    padding: 0px 15px;
+    }
+    .bd{
+    	width: 90%;
+    	margin: 120px 16px 49px;
+    	height: auto;
+    	padding: 122px 42px 5px;
+    }
+    .img1{
+    	margin-left: -12px;
+    }
+ 
+	.text{
+		padding: 2px;
+	}
+	.content{
+		font-size: 26px;
+	}
+	.line{
+		margin: 11px 71px;
+	}
+	.content-2{
+		font-size: 15px; 
+        padding: 0px 1px;
+	}
+	.abc{
+		width: 269px;
+		margin-left: 25px;
+	}
+	ul{
+		margin-left: 8px;
+	}
+	li{
+		width: 190px;
+	}
+	.cnkh{
+		font-size: 22px;
+	}
+	.khoahoc{
+		padding: 5px 0px;
+		font-size: 17px;
+	}
+	.tt{
+		padding-right: 0px;
+		font-size: 34px;
+	}
+	.tt2{
+		padding-left: 0px;
+		line-height: 40px;
+		font-size: 30px;
+	}
+	.ab{
+		padding-top: 0px;
+	}
+	.formdky{
+		padding-top: 22px;
+	}
+	.time>li{
+		margin: 2px 3px 14px 3px;
+		padding: 4px;
+	}
+	.btn{
+		padding: 11px 95px;
+	}
+	.b1>h2{
+		font-size: 23px;
+	}
+}

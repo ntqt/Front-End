@@ -1,0 +1,202 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.logo{padding: 15px 0px 15px 20px;}
+.navbar{margin-bottom: 0px!important;}
+.navbar-fix{background-color: #ed1b2f!important;border:none;border-radius: 0;color: #fff;}
+ul.nav > li >a {color: #fff!important;text-transform: uppercase;}
+ul.nav >li:hover a{color: #000!important;}
+ul.nav >li:hover {background-color: #fff;}
+.fix-right{margin-right: 0px !important;}
+.navbar-default .navbar-toggle .icon-bar{background-color: #fff;}
+/*session product*/
+h3.title{text-transform: uppercase;border-bottom:3px solid #ed1b2f;line-height: 1.5; }
+.product_list{padding-top: 20px;}
+.product_item{padding-top: 20px;}
+#name_product{text-align: center; padding-top: 10px;}
+#name_product span{text-transform: uppercase;}
+#price_product{background-color: #333;color: #fff;text-align: center;padding: 5px 10px 5px 10px;}
+.btn-buy{border-radius: 0;}
+#buy_product{padding-top: 10px;}
+.abc{padding-left: 10px;}
+.item1{margin-top: 4px;}
+.txt>a>span{font-size: 18px;}
+.txt>p{margin-top: 10px;}
+.video>img{position: absolute;}
+.video>a{position: absolute;z-index: 999;right: 165px;top: 100px;}
+.clear-padding-right{padding-right: 0px;}
+.clear-all-padding{margin-right: 0px;margin-left: 0px;}
+.txt2>h4{font-size: 22px;}
+.txt2>p{font-size: 17px;color: #0009;}
+
+.title-XDHL{
+    text-transform: uppercase;
+    font-size: 27px;
+    padding-top: 6px;
+    padding-bottom: 17px;
+    padding-left: 2px;
+    color: #ed1b2f;
+}
+.title-XDHL>h3{color: #0093dd;}
+.logo-background{
+    background-color: #8EC5FC;
+background-image: -webkit-linear-gradient(289deg, #8EC5FC 0%, #E0C3FC 50%, #ffffff 81%);
+background-image: -moz-linear-gradient(289deg, #8EC5FC 0%, #E0C3FC 50%, #ffffff 81%);
+background-image: -o-linear-gradient(289deg, #8EC5FC 0%, #E0C3FC 50%, #ffffff 81%);
+background-image: linear-gradient(289deg, #8EC5FC 0%, #E0C3FC 50%, #ffffff 81%);
+
+}
+/*footer*/
+.context-dark, .bg-gray-dark, .bg-primary {
+    color: rgba(255, 255, 255, 0.8);
+}
+footer.footer-classic {margin-top: 40px;padding-top: 40px;}
+.footer-classic a, .footer-classic a:focus, .footer-classic a:active {
+    color: #ffffff;
+}
+.nav-list li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-list li a:hover:before {
+    margin-left: 0;
+    opacity: 1;
+    visibility: visible;
+}
+
+ul, ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.social-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 23px;
+    font: 900 13px/1 "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.5);
+}
+.social-container .col {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.nav-list li a:before {
+    content: "\f14f";
+    font: 400 21px/1 "Material Design Icons";
+    color: #4d6de6;
+    display: inline-block;
+    vertical-align: baseline;
+    margin-left: -28px;
+    margin-right: 7px;
+    opacity: 0;
+    visibility: hidden;
+    transition: .22s ease;
+}
+.title-head{
+	background-image: url(../images/Interior.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 200px;
+}
+
+/*page-detail*/
+ .swiper-container {
+      width: 100%;
+      height: 300px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .swiper-slide {
+      background-size: cover;
+      background-position: center;
+    }
+    .gallery-top {
+      height: 80%;
+      width: 100%;
+    }
+    .gallery-thumbs {
+      height: 20%;
+      box-sizing: border-box;
+      padding: 10px 0;
+    }
+    .gallery-thumbs .swiper-slide {
+      width: 25%;
+      height: 100%;
+      opacity: 0.4;
+    }
+    .gallery-thumbs .swiper-slide-active {
+      opacity: 1;
+    }
+    .sticky-top {
+    	padding-top: 48px;
+
+    }
+    .bg-light {
+    	background-color: #ed1b2f;
+    	padding: 10px 20px 20px 20px;
+    	margin-top: 58px;
+    }
+    .card-body>h3{
+    	color: #fff;
+    }
+    .navbar-brand {color: #fff !important ;}
+    /*news*/
+    .news-head p {
+    margin-top:5px;
+    font-size : 15px;
+    line-height: 22px;
+}
+.news-head{padding-top: 15px;}
+.news-head a {
+    font-size: 18px;
+    text-transform: uppercase;
+    color:#000;
+}
+.news-image{
+	padding-bottom:15px;
+}
+.fb-comment{
+	padding-top: 20px;
+}
+.fa-2x{
+	color: #e11428;
+}
+ul.nav-fix>li>a{
+	color: #000 !important;
+	font-size:16px;
+
+
+}
+.nav-fix{
+	padding-top:30px;
+}
+.nav-tabs{
+	border-bottom: 1px solid #f00;
+}
+.nav-tabs > li.active > a{
+	background-color: #fff;
+    border: 2px solid red;
+    border-bottom:#fff;
+}
+/*.nav-tabs > li.active > a:hover{
+	background-color: #fff;
+    border: 2px solid red;
+    border-bottom-color: #fff transparent;
+
+}*/
+.nav-tabs > li.active > a:focus{
+	background-color: #fff;
+    border: 2px solid red;
+    border-bottom-color: #fff ;
+
+}
+
+
+@media (max-width: 769px){
+.title{font-size: 23px;}
+}

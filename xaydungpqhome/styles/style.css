@@ -1,0 +1,132 @@
+body{
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 60px;
+	padding-right: 60px;
+	font-family: 'Open Sans', sans-serif;
+}
+.box-container{
+	background-color: #000;
+}
+#page-0{
+	
+	color: #f2da76;
+	border-bottom: 1px solid #f2da76;
+}
+.text1{
+	padding-top: 10px;
+	font-weight: 500;
+
+}
+.text1>h4{
+	font-size: 16px;
+    font-weight: 700;
+}
+.line{
+	border-bottom: 1px solid #fff;
+	padding-top: 50px;
+	margin-left: 15px;
+    margin-right: 15px;
+}
+
+.lgo{
+	padding-top: 30px;
+	padding-bottom: 60px;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+	color: #f2da76;
+
+}
+.boder1{
+	border-bottom: 1px solid #f2da76;
+	border-radius: 0px;
+	background-color: #333;
+	margin-bottom: 0px;
+}
+.slide{
+	
+}
+#page-1{
+	background-color: #000;
+	padding-top: 60px;
+	justify-content: space-between;
+	height: 500px;
+	border-bottom: 1px solid #fff;
+	height: 235px;
+}
+.aa{
+	box-sizing: border-box;
+	padding: 12px 30px;
+	border:1px solid #fff;
+	
+}
+.a1{
+    background-color: #f39cc3;
+    margin-left: 43px;
+}
+.a2{
+    background-color: #fac174;
+}
+.a3{
+    background-color: #9dd5c0;
+    margin-right: 43px;
+}
+.icon{
+	float: left;
+}
+.text2{
+	margin-left: 95px;
+	text-transform: uppercase;
+	color: #fff;
+}
+.text2>h4{
+	font-size: 15px;
+	font-weight: bold;
+}
+
+
+.text3{
+	padding-top: 10px;
+	margin-bottom: 100px;
+}
+.text3>h3{
+	font-size: 36px;
+	color: #ebcd1e;
+	text-transform: uppercase;
+	font-weight: 700;
+
+}
+.line2{
+	content: "";
+	height: 4px;
+	width: 135px;
+	position: absolute;
+	background-color: #ebcd1e;
+	margin-bottom: 30px;
+	left: 45%;
+	margin-top: 25px;
+}
+#page-2{
+	border-bottom: 1px solid #fff;
+	padding-bottom: 30px;
+}
+.ib{
+	border:1px solid #fff;
+	height: 250px;
+}
+.text-page2>h4{
+	text-align: center;
+	font-size: 18px;
+	color: #ecda84;
+	text-transform: uppercase;
+	font-weight: 800;
+	padding-top: 10px;
+}
+#page-3{
+	border-bottom: 1px solid #fff;
+	padding-bottom: 30px;
+}
+.youtube{
+	background-image: url("https://i.ytimg.com/vi/4TCYO_ysX3E/sddefault.jpg");
+}

@@ -1,0 +1,1647 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1366px;
+	 height: 5528px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #bodybg 
+{ 
+	 left: 0px; 
+	 top: 758px; 
+	 position: absolute; 
+	 width: 1366px;
+	 height: 4816px;
+	 z-index:1;
+} 
+
+ #footerbg 
+{ 
+	 left: -5px; 
+	 top: 5040px; 
+	 position: absolute; 
+	 width: 1376px;
+	 height: 439px;
+	 z-index:2;
+} 
+
+ #2017Allrightreserved 
+{ 
+	 left: 901px; 
+	 top: 5303px; 
+	 position: absolute; 
+	 width: 158px;
+	 height: 17px;
+	 z-index:3;
+} 
+
+ #Social 
+{ 
+	 left: 567px; 
+	 top: 5254px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 19px;
+	 z-index:4;
+} 
+
+ #border 
+{ 
+	 left: 653px; 
+	 top: 5294px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 25px;
+	 z-index:5;
+} 
+
+ #google 
+{ 
+	 left: 660px; 
+	 top: 5302px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 11px;
+	 z-index:6;
+} 
+
+ #border_0 
+{ 
+	 left: 623px; 
+	 top: 5294px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 25px;
+	 z-index:7;
+} 
+
+ #linkedin 
+{ 
+	 left: 632px; 
+	 top: 5301px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 12px;
+	 z-index:8;
+} 
+
+ #border_1 
+{ 
+	 left: 593px; 
+	 top: 5294px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 25px;
+	 z-index:9;
+} 
+
+ #twitter 
+{ 
+	 left: 601px; 
+	 top: 5302px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 10px;
+	 z-index:10;
+} 
+
+ #border_2 
+{ 
+	 left: 563px; 
+	 top: 5294px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 25px;
+	 z-index:11;
+} 
+
+ #facebook 
+{ 
+	 left: 574px; 
+	 top: 5300px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 13px;
+	 z-index:12;
+} 
+
+ #YourEmail 
+{ 
+	 left: 911px; 
+	 top: 5209px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 13px;
+	 z-index:13;
+} 
+
+ #mailborder 
+{ 
+	 left: 899px; 
+	 top: 5194px; 
+	 position: absolute; 
+	 width: 208px;
+	 height: 41px;
+	 z-index:14;
+} 
+
+ #sendborder 
+{ 
+	 left: 1075px; 
+	 top: 5194px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 41px;
+	 z-index:15;
+} 
+
+ #send 
+{ 
+	 left: 1087px; 
+	 top: 5207px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 17px;
+	 z-index:16;
+} 
+
+ #Newsletter 
+{ 
+	 left: 900px; 
+	 top: 5154px; 
+	 position: absolute; 
+	 width: 121px;
+	 height: 19px;
+	 z-index:17;
+} 
+
+ #customersmusicacom 
+{ 
+	 left: 565px; 
+	 top: 5197px; 
+	 position: absolute; 
+	 width: 161px;
+	 height: 15px;
+	 z-index:18;
+} 
+
+ #GetInTouch 
+{ 
+	 left: 565px; 
+	 top: 5154px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 19px;
+	 z-index:19;
+} 
+
+ #SearchContactAboutUs 
+{ 
+	 left: 251px; 
+	 top: 5196px; 
+	 position: absolute; 
+	 width: 146px;
+	 height: 117px;
+	 z-index:20;
+} 
+
+ #QuikLinks 
+{ 
+	 left: 251px; 
+	 top: 5154px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 25px;
+	 z-index:21;
+} 
+
+ #border_3 
+{ 
+	 left: 248px; 
+	 top: 5087px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 34px;
+	 z-index:22;
+} 
+
+ #logo 
+{ 
+	 left: 259px; 
+	 top: 5096px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 17px;
+	 z-index:23;
+} 
+
+ #guitar 
+{ 
+	 left: 1299px; 
+	 top: 5249px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 28px;
+	 z-index:24;
+} 
+
+ #up 
+{ 
+	 left: 1299px; 
+	 top: 5238px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 7px;
+	 z-index:25;
+} 
+
+ #bttnborder2 
+{ 
+	 left: 603px; 
+	 top: 4858px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 57px;
+	 z-index:26;
+} 
+
+ #bttnborder 
+{ 
+	 left: 596px; 
+	 top: 4865px; 
+	 position: absolute; 
+	 width: 173px;
+	 height: 57px;
+	 z-index:27;
+} 
+
+ #showmore 
+{ 
+	 left: 630px; 
+	 top: 4888px; 
+	 position: absolute; 
+	 width: 104px;
+	 height: 13px;
+	 z-index:28;
+} 
+
+ #border_4 
+{ 
+	 left: 684px; 
+	 top: 4323px; 
+	 position: absolute; 
+	 width: 584px;
+	 height: 507px;
+	 z-index:29;
+} 
+
+ #img 
+{ 
+	 left: 652px; 
+	 top: 4314px; 
+	 position: absolute; 
+	 width: 778px;
+	 height: 517px;
+	 z-index:30;
+} 
+
+ #Life 
+{ 
+	 left: 957px; 
+	 top: 4568px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 19px;
+	 z-index:31;
+} 
+
+ #border_5 
+{ 
+	 left: 96px; 
+	 top: 4323px; 
+	 position: absolute; 
+	 width: 584px;
+	 height: 507px;
+	 z-index:32;
+} 
+
+ #img_0 
+{ 
+	 left: 12px; 
+	 top: 4322px; 
+	 position: absolute; 
+	 width: 768px;
+	 height: 512px;
+	 z-index:33;
+} 
+
+ #bttnborder2_0 
+{ 
+	 left: 145px; 
+	 top: 4708px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 57px;
+	 z-index:34;
+} 
+
+ #bttnborder_0 
+{ 
+	 left: 138px; 
+	 top: 4716px; 
+	 position: absolute; 
+	 width: 173px;
+	 height: 56px;
+	 z-index:35;
+} 
+
+ #Readmore 
+{ 
+	 left: 174px; 
+	 top: 4738px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 13px;
+	 z-index:36;
+} 
+
+ #blanksquaredbubble 
+{ 
+	 left: 272px; 
+	 top: 4670px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 24px;
+	 z-index:37;
+} 
+
+ #layer_19 
+{ 
+	 left: 311px; 
+	 top: 4673px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 13px;
+	 z-index:38;
+} 
+
+ #23minutes 
+{ 
+	 left: 174px; 
+	 top: 4674px; 
+	 position: absolute; 
+	 width: 71px;
+	 height: 13px;
+	 z-index:39;
+} 
+
+ #clock 
+{ 
+	 left: 139px; 
+	 top: 4670px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:40;
+} 
+
+ #content 
+{ 
+	 left: 139px; 
+	 top: 4523px; 
+	 position: absolute; 
+	 width: 471px;
+	 height: 122px;
+	 z-index:41;
+} 
+
+ #title 
+{ 
+	 left: 140px; 
+	 top: 4415px; 
+	 position: absolute; 
+	 width: 433px;
+	 height: 80px;
+	 z-index:42;
+} 
+
+ #Love 
+{ 
+	 left: 138px; 
+	 top: 4362px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 13px;
+	 z-index:43;
+} 
+
+ #Blog 
+{ 
+	 left: 637px; 
+	 top: 4229px; 
+	 position: absolute; 
+	 width: 93px;
+	 height: 47px;
+	 z-index:44;
+} 
+
+ #img_1 
+{ 
+	 left: 707px; 
+	 top: 3734px; 
+	 position: absolute; 
+	 width: 560px;
+	 height: 373px;
+	 z-index:45;
+} 
+
+ #bttnborder2_1 
+{ 
+	 left: 103px; 
+	 top: 4008px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 57px;
+	 z-index:46;
+} 
+
+ #bttnborder_1 
+{ 
+	 left: 96px; 
+	 top: 4015px; 
+	 position: absolute; 
+	 width: 173px;
+	 height: 57px;
+	 z-index:47;
+} 
+
+ #READMORE 
+{ 
+	 left: 132px; 
+	 top: 4038px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 13px;
+	 z-index:48;
+} 
+
+ #ThestoryoftheFirebir 
+{ 
+	 left: 99px; 
+	 top: 3895px; 
+	 position: absolute; 
+	 width: 545px;
+	 height: 95px;
+	 z-index:49;
+} 
+
+ #THESTRANGESAGAOFGIBS 
+{ 
+	 left: 99px; 
+	 top: 3783px; 
+	 position: absolute; 
+	 width: 509px;
+	 height: 80px;
+	 z-index:50;
+} 
+
+ #AboutUs 
+{ 
+	 left: 587px; 
+	 top: 3638px; 
+	 position: absolute; 
+	 width: 193px;
+	 height: 35px;
+	 z-index:51;
+} 
+
+ #subscribe 
+{ 
+	 left: -1px; 
+	 top: 3093px; 
+	 position: absolute; 
+	 width: 1368px;
+	 height: 426px;
+	 z-index:52;
+} 
+
+ #img_2 
+{ 
+	 left: 0px; 
+	 top: 2971px; 
+	 position: absolute; 
+	 width: 1366px;
+	 height: 852px;
+	 z-index:53;
+} 
+
+ #Ellipse3 
+{ 
+	 left: 630px; 
+	 top: 3254px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 105px;
+	 z-index:54;
+} 
+
+ #musicplayerplay 
+{ 
+	 left: 669px; 
+	 top: 3286px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 42px;
+	 z-index:55;
+} 
+
+ #bttnborder2_2 
+{ 
+	 left: 588px; 
+	 top: 2908px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 57px;
+	 z-index:56;
+} 
+
+ #bttnborder_2 
+{ 
+	 left: 581px; 
+	 top: 2915px; 
+	 position: absolute; 
+	 width: 204px;
+	 height: 57px;
+	 z-index:57;
+} 
+
+ #morePRODUCTS 
+{ 
+	 left: 611px; 
+	 top: 2938px; 
+	 position: absolute; 
+	 width: 145px;
+	 height: 13px;
+	 z-index:58;
+} 
+
+ #4thborder 
+{ 
+	 left: 980px; 
+	 top: 2567px; 
+	 position: absolute; 
+	 width: 288px;
+	 height: 310px;
+	 z-index:59;
+} 
+
+ #img4 
+{ 
+	 left: 1070px; 
+	 top: 2570px; 
+	 position: absolute; 
+	 width: 125px;
+	 height: 305px;
+	 z-index:60;
+} 
+
+ #3rdborder 
+{ 
+	 left: 685px; 
+	 top: 2567px; 
+	 position: absolute; 
+	 width: 289px;
+	 height: 310px;
+	 z-index:61;
+} 
+
+ #designingborder 
+{ 
+	 left: 748px; 
+	 top: 2682px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 152px;
+	 z-index:62;
+} 
+
+ #1stborder 
+{ 
+	 left: 685px; 
+	 top: 2567px; 
+	 position: absolute; 
+	 width: 289px;
+	 height: 310px;
+	 z-index:63;
+} 
+
+ #shadow 
+{ 
+	 left: 842px; 
+	 top: 2830px; 
+	 position: absolute; 
+	 width: 98px;
+	 height: 35px;
+	 z-index:64;
+} 
+
+ #img3 
+{ 
+	 left: 846px; 
+	 top: 2597px; 
+	 position: absolute; 
+	 width: 91px;
+	 height: 236px;
+	 z-index:65;
+} 
+
+ #shoppingcart 
+{ 
+	 left: 795px; 
+	 top: 2765px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 18px;
+	 z-index:66;
+} 
+
+ #like 
+{ 
+	 left: 738px; 
+	 top: 2766px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 17px;
+	 z-index:67;
+} 
+
+ #layer_2 
+{ 
+	 left: 773px; 
+	 top: 2758px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 33px;
+	 z-index:68;
+} 
+
+ #layer_1 
+{ 
+	 left: 717px; 
+	 top: 2756px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 36px;
+	 z-index:69;
+} 
+
+ #layer_150 
+{ 
+	 left: 719px; 
+	 top: 2699px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 22px;
+	 z-index:70;
+} 
+
+ #NylonGuitar 
+{ 
+	 left: 717px; 
+	 top: 2665px; 
+	 position: absolute; 
+	 width: 130px;
+	 height: 22px;
+	 z-index:71;
+} 
+
+ #2ndborder 
+{ 
+	 left: 391px; 
+	 top: 2567px; 
+	 position: absolute; 
+	 width: 248px;
+	 height: 310px;
+	 z-index:72;
+} 
+
+ #img2 
+{ 
+	 left: 487px; 
+	 top: 2574px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 298px;
+	 z-index:73;
+} 
+
+ #img1 
+{ 
+	 left: 120px; 
+	 top: 2568px; 
+	 position: absolute; 
+	 width: 239px;
+	 height: 308px;
+	 z-index:74;
+} 
+
+ #PopularProducts 
+{ 
+	 left: 503px; 
+	 top: 2473px; 
+	 position: absolute; 
+	 width: 360px;
+	 height: 47px;
+	 z-index:75;
+} 
+
+ #layer_4 
+{ 
+	 left: 686px; 
+	 top: 1912px; 
+	 position: absolute; 
+	 width: 583px;
+	 height: 433px;
+	 z-index:76;
+} 
+
+ #img4_0 
+{ 
+	 left: 1072px; 
+	 top: 1928px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 379px;
+	 z-index:77;
+} 
+
+ #Ellipse1 
+{ 
+	 left: 1068px; 
+	 top: 2275px; 
+	 position: absolute; 
+	 width: 149px;
+	 height: 79px;
+	 z-index:78;
+} 
+
+ #bttnborder2_3 
+{ 
+	 left: 757px; 
+	 top: 2123px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 57px;
+	 z-index:79;
+} 
+
+ #bttnborder_3 
+{ 
+	 left: 750px; 
+	 top: 2130px; 
+	 position: absolute; 
+	 width: 193px;
+	 height: 57px;
+	 z-index:80;
+} 
+
+ #VIEWGallery 
+{ 
+	 left: 782px; 
+	 top: 2153px; 
+	 position: absolute; 
+	 width: 130px;
+	 height: 13px;
+	 z-index:81;
+} 
+
+ #TwelveStringGuitar 
+{ 
+	 left: 750px; 
+	 top: 2075px; 
+	 position: absolute; 
+	 width: 329px;
+	 height: 37px;
+	 z-index:82;
+} 
+
+ #layer_3 
+{ 
+	 left: 97px; 
+	 top: 2004px; 
+	 position: absolute; 
+	 width: 583px;
+	 height: 341px;
+	 z-index:83;
+} 
+
+ #img3_0 
+{ 
+	 left: 549px; 
+	 top: 2031px; 
+	 position: absolute; 
+	 width: 143px;
+	 height: 359px;
+	 z-index:84;
+} 
+
+ #NylonGuitar_0 
+{ 
+	 left: 286px; 
+	 top: 2158px; 
+	 position: absolute; 
+	 width: 203px;
+	 height: 36px;
+	 z-index:85;
+} 
+
+ #layer_2_0 
+{ 
+	 left: 685px; 
+	 top: 1562px; 
+	 position: absolute; 
+	 width: 583px;
+	 height: 341px;
+	 z-index:86;
+} 
+
+ #img2_0 
+{ 
+	 left: 1071px; 
+	 top: 1596px; 
+	 position: absolute; 
+	 width: 308px;
+	 height: 323px;
+	 z-index:87;
+} 
+
+ #ElectricGuitar 
+{ 
+	 left: 861px; 
+	 top: 1720px; 
+	 position: absolute; 
+	 width: 229px;
+	 height: 28px;
+	 z-index:88;
+} 
+
+ #layer_1_0 
+{ 
+	 left: 96px; 
+	 top: 1562px; 
+	 position: absolute; 
+	 width: 583px;
+	 height: 434px;
+	 z-index:89;
+} 
+
+ #AcousticGuitar 
+{ 
+	 left: 266px; 
+	 top: 1768px; 
+	 position: absolute; 
+	 width: 243px;
+	 height: 27px;
+	 z-index:90;
+} 
+
+ #img1_0 
+{ 
+	 left: 555px; 
+	 top: 1596px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 434px;
+	 z-index:91;
+} 
+
+ #FeaturedCollections 
+{ 
+	 left: 471px; 
+	 top: 1469px; 
+	 position: absolute; 
+	 width: 424px;
+	 height: 35px;
+	 z-index:92;
+} 
+
+ #imgborder 
+{ 
+	 left: 705px; 
+	 top: 1021px; 
+	 position: absolute; 
+	 width: 564px;
+	 height: 324px;
+	 z-index:93;
+} 
+
+ #cloudcopy 
+{ 
+	 left: 728px; 
+	 top: 1067px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 85px;
+	 z-index:94;
+} 
+
+ #cloud 
+{ 
+	 left: 1057px; 
+	 top: 1085px; 
+	 position: absolute; 
+	 width: 145px;
+	 height: 85px;
+	 z-index:95;
+} 
+
+ #VectorSmartObject 
+{ 
+	 left: 711px; 
+	 top: 1085px; 
+	 position: absolute; 
+	 width: 558px;
+	 height: 262px;
+	 z-index:96;
+} 
+
+ #guitarimg 
+{ 
+	 left: 882px; 
+	 top: 1023px; 
+	 position: absolute; 
+	 width: 254px;
+	 height: 335px;
+	 z-index:97;
+} 
+
+ #bttnborder2_4 
+{ 
+	 left: 103px; 
+	 top: 1257px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 57px;
+	 z-index:98;
+} 
+
+ #bttnborder_4 
+{ 
+	 left: 96px; 
+	 top: 1264px; 
+	 position: absolute; 
+	 width: 173px;
+	 height: 57px;
+	 z-index:99;
+} 
+
+ #READMORE_0 
+{ 
+	 left: 132px; 
+	 top: 1287px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 13px;
+	 z-index:100;
+} 
+
+ #ThestoryoftheFirebir_0 
+{ 
+	 left: 98px; 
+	 top: 1144px; 
+	 position: absolute; 
+	 width: 567px;
+	 height: 95px;
+	 z-index:101;
+} 
+
+ #THESTRANGESAGAOFGIBS_0 
+{ 
+	 left: 97px; 
+	 top: 1032px; 
+	 position: absolute; 
+	 width: 509px;
+	 height: 80px;
+	 z-index:102;
+} 
+
+ #AboutUs_0 
+{ 
+	 left: 592px; 
+	 top: 926px; 
+	 position: absolute; 
+	 width: 185px;
+	 height: 35px;
+	 z-index:103;
+} 
+
+ #Service 
+{ 
+	 left: 606px; 
+	 top: 930px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 34px;
+	 z-index:104;
+} 
+
+ #Bodybg 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1366px;
+	 height: 809px;
+	 z-index:105;
+} 
+
+ #Layer1 
+{ 
+	 left: 0px; 
+	 top: -36px; 
+	 position: absolute; 
+	 width: 1765px;
+	 height: 908px;
+	 z-index:106;
+} 
+
+ #guitar_0 
+{ 
+	 left: 677px; 
+	 top: 748px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 28px;
+	 z-index:107;
+} 
+
+ #layer_108 
+{ 
+	 left: 677px; 
+	 top: 779px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 8px;
+	 z-index:108;
+} 
+
+ #layer_5 
+{ 
+	 left: 1300px; 
+	 top: 426px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 25px;
+	 z-index:109;
+} 
+
+ #layer_4_0 
+{ 
+	 left: 1300px; 
+	 top: 394px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 25px;
+	 z-index:110;
+} 
+
+ #layer_3_0 
+{ 
+	 left: 1300px; 
+	 top: 362px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 25px;
+	 z-index:111;
+} 
+
+ #color 
+{ 
+	 left: 1303px; 
+	 top: 332px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 25px;
+	 z-index:112;
+} 
+
+ #layer_2_1 
+{ 
+	 left: 1300px; 
+	 top: 330px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 25px;
+	 z-index:113;
+} 
+
+ #layer_1_1 
+{ 
+	 left: 1300px; 
+	 top: 298px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 25px;
+	 z-index:114;
+} 
+
+ #Asset85 
+{ 
+	 left: 888px; 
+	 top: 442px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 42px;
+	 z-index:115;
+} 
+
+ #cloud_0 
+{ 
+	 left: 984px; 
+	 top: 388px; 
+	 position: absolute; 
+	 width: 166px;
+	 height: 97px;
+	 z-index:116;
+} 
+
+ #cloudcopy_0 
+{ 
+	 left: 854px; 
+	 top: 532px; 
+	 position: absolute; 
+	 width: 166px;
+	 height: 97px;
+	 z-index:117;
+} 
+
+ #Asset15 
+{ 
+	 left: 945px; 
+	 top: 210px; 
+	 position: absolute; 
+	 width: 158px;
+	 height: 463px;
+	 z-index:118;
+} 
+
+ #Asset85copy 
+{ 
+	 left: 1095px; 
+	 top: 372px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 23px;
+	 z-index:119;
+} 
+
+ #Asset85copy2 
+{ 
+	 left: 966px; 
+	 top: 356px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 16px;
+	 z-index:120;
+} 
+
+ #Asset85copy3 
+{ 
+	 left: 1149px; 
+	 top: 353px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 16px;
+	 z-index:121;
+} 
+
+ #Asset95 
+{ 
+	 left: 1133px; 
+	 top: 298px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 15px;
+	 z-index:122;
+} 
+
+ #Asset95copy 
+{ 
+	 left: 885px; 
+	 top: 372px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 27px;
+	 z-index:123;
+} 
+
+ #Asset95copy2 
+{ 
+	 left: 1119px; 
+	 top: 503px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 27px;
+	 z-index:124;
+} 
+
+ #Asset75 
+{ 
+	 left: 930px; 
+	 top: 306px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 18px;
+	 z-index:125;
+} 
+
+ #Asset75copy3 
+{ 
+	 left: 867px; 
+	 top: 514px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 18px;
+	 z-index:126;
+} 
+
+ #Asset75copy 
+{ 
+	 left: 1119px; 
+	 top: 449px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 27px;
+	 z-index:127;
+} 
+
+ #Asset75copy2 
+{ 
+	 left: 1073px; 
+	 top: 307px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 13px;
+	 z-index:128;
+} 
+
+ #Asset25 
+{ 
+	 left: 1097px; 
+	 top: 295px; 
+	 position: absolute; 
+	 width: 208px;
+	 height: 165px;
+	 z-index:129;
+} 
+
+ #bttnborder2_5 
+{ 
+	 left: 205px; 
+	 top: 430px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 57px;
+	 z-index:130;
+} 
+
+ #bttnborder_5 
+{ 
+	 left: 198px; 
+	 top: 437px; 
+	 position: absolute; 
+	 width: 223px;
+	 height: 57px;
+	 z-index:131;
+} 
+
+ #viewcollection 
+{ 
+	 left: 229px; 
+	 top: 460px; 
+	 position: absolute; 
+	 width: 161px;
+	 height: 13px;
+	 z-index:132;
+} 
+
+ #HeroCaption 
+{ 
+	 left: 197px; 
+	 top: 307px; 
+	 position: absolute; 
+	 width: 477px;
+	 height: 112px;
+	 z-index:133;
+} 
+
+ #search 
+{ 
+	 left: 1253px; 
+	 top: 40px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 16px;
+	 z-index:134;
+} 
+
+ #cart 
+{ 
+	 left: 1223px; 
+	 top: 41px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:135;
+} 
+
+ #border_6 
+{ 
+	 left: 1174px; 
+	 top: 38px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 19px;
+	 z-index:136;
+} 
+
+ #layer_137 
+{ 
+	 left: 1183px; 
+	 top: 44px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 8px;
+	 z-index:137;
+} 
+
+ #dropdown 
+{ 
+	 left: 1195px; 
+	 top: 47px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 4px;
+	 z-index:138;
+} 
+
+ #Shape1 
+{ 
+	 left: 634px; 
+	 top: 57px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 5px;
+	 z-index:139;
+} 
+
+ #Shape1copy 
+{ 
+	 left: 611px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 5px;
+	 z-index:140;
+} 
+
+ #Menu 
+{ 
+	 left: 612px; 
+	 top: 42px; 
+	 position: absolute; 
+	 width: 544px;
+	 height: 13px;
+	 z-index:141;
+} 
+
+ #border_7 
+{ 
+	 left: 97px; 
+	 top: 38px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 34px;
+	 z-index:142;
+} 
+
+ #logo_0 
+{ 
+	 left: 108px; 
+	 top: 47px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 17px;
+	 z-index:143;
+} 
+
+ #Ellipse2 
+{ 
+	 left: 349px; 
+	 top: -119px; 
+	 position: absolute; 
+	 width: 211px;
+	 height: 211px;
+	 z-index:144;
+} 
+
+ #Ellipse2copy7 
+{ 
+	 left: 1301px; 
+	 top: 578px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 135px;
+	 z-index:145;
+} 
+
+ #Ellipse2copy 
+{ 
+	 left: 646px; 
+	 top: 315px; 
+	 position: absolute; 
+	 width: 129px;
+	 height: 129px;
+	 z-index:146;
+} 
+
+ #Ellipse2copy3 
+{ 
+	 left: -66px; 
+	 top: 833px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 132px;
+	 z-index:147;
+} 
+
+ #Ellipse2copy5 
+{ 
+	 left: 1216px; 
+	 top: 927px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 132px;
+	 z-index:148;
+} 
+
+ #Ellipse2copy6 
+{ 
+	 left: 1224px; 
+	 top: 2057px; 
+	 position: absolute; 
+	 width: 129px;
+	 height: 129px;
+	 z-index:149;
+} 
+
+ #Ellipse2copy4 
+{ 
+	 left: 21px; 
+	 top: 1486px; 
+	 position: absolute; 
+	 width: 171px;
+	 height: 171px;
+	 z-index:150;
+} 
+
+ #Ellipse2copy2 
+{ 
+	 left: -53px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 152px;
+	 z-index:151;
+} 
+
+ #Ellipse2copy9 
+{ 
+	 left: 420px; 
+	 top: 2408px; 
+	 position: absolute; 
+	 width: 149px;
+	 height: 149px;
+	 z-index:152;
+} 
+
+ #Ellipse2copy16 
+{ 
+	 left: 1271px; 
+	 top: 2524px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 152px;
+	 z-index:153;
+} 
+
+ #Ellipse2copy10 
+{ 
+	 left: -67px; 
+	 top: 2895px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 152px;
+	 z-index:154;
+} 
+
+ #Ellipse2copy11 
+{ 
+	 left: 1218px; 
+	 top: 3543px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 152px;
+	 z-index:155;
+} 
+
+ #Ellipse2copy12 
+{ 
+	 left: -87px; 
+	 top: 3561px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 152px;
+	 z-index:156;
+} 
+
+ #Ellipse2copy17 
+{ 
+	 left: -87px; 
+	 top: 4887px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 151px;
+	 z-index:157;
+} 
+
+ #Ellipse2copy18 
+{ 
+	 left: 1297px; 
+	 top: 5058px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 152px;
+	 z-index:158;
+} 
+
+ #Ellipse2copy13 
+{ 
+	 left: 1264px; 
+	 top: 4332px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 147px;
+	 z-index:159;
+} 
+
+ #Ellipse2copy14 
+{ 
+	 left: -80px; 
+	 top: 4339px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 151px;
+	 z-index:160;
+} 
+
+ #Ellipse2copy15 
+{ 
+	 left: 732px; 
+	 top: 4831px; 
+	 position: absolute; 
+	 width: 148px;
+	 height: 149px;
+	 z-index:161;
+} 
+
+ #Ellipse2copy8 
+{ 
+	 left: -43px; 
+	 top: 2406px; 
+	 position: absolute; 
+	 width: 132px;
+	 height: 132px;
+	 z-index:162;
+} 
+
+ #Columns 
+{ 
+	 left: 98px; 
+	 top: -13px; 
+	 position: absolute; 
+	 width: 1170px;
+	 height: 4827px;
+	 z-index:163;
+} 
